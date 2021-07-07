@@ -253,7 +253,7 @@ article img
 
 .articlePreview .previewImage
 {
-  height: 100%;
+  width: 100%;
 }
 
 /*Stuff for desktop only*/
