@@ -11,7 +11,9 @@ imageAlt: Arm outstretched with a blue wing butterfly landing on it
 
 **Spoilers: Life Is Strange, Life Is Strange: Before the Storm**
 
-*Header Image of a Blue butterfly by [@AmyCantNow](https://twitter.com/Amycantnow) &copy; 2021 Amy all rights reserved*
+*Header Image <a href="https://twitter.com/Amycantnow/status/1397997639799652356">"Butterfly Effect"</a>*
+*by <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/Amycantnow">@AmyCantNow</a> &copy;* 
+*2021 Amy, all rights reserved*
 
 ## Life Is Strange
 
@@ -60,7 +62,8 @@ relationship with my own parents.
 
 It wasn't summer of 2020, when we were all stuck at home due to covid that I 
 finally figured things out. The "straw that broke the camel's back" was reading 
-[Mae's coming out comic](https://www.reallifecomics.com/comic.php?comic=june-29-2020)
+<a href="https://www.reallifecomics.com/comic.php?comic=june-29-2020" 
+   rel="noopener noreferrer" target="_blank">Mae's coming out comic</a>
 at the end of june.
 ## Rewind
 
@@ -93,8 +96,11 @@ Every day I wake up alive, because I choose Arri and Chloe over false normalcy
 and Arcadia Bay.
 
 *Life Is Strange and the Life Is Strange logo is &copy; Donod entertainment all rights reserved*
+
 *RealLifeComics is &copy; of Mae Dean all rights reserved*
 
-*The header image is &copy; 2021 of [@AmyCantNow](https://twitter.com/Amycantnow) All rights reserved.*
-*Amy "The Creator" reserves the right to revoke use of this image at any time for any reason.*
-*This image my not be used for any reason without explicit permission of The Creator.*
+*<a href="https://twitter.com/Amycantnow/status/1397997639799652356">"Butterfly Effect"</a>*
+*&copy; 2021 by* 
+*<a rel="noopener noreferrer" target="_blank" href="https://twitter.com/Amycantnow">@AmyCantNow</a> All rights reserved.*
+*Amy "The Creator" may revoke use of "Butterfly Effect" "The Work" at any time for any reason.*
+*The Work may not be used for any reason without the explicit permission of The Creator.*
