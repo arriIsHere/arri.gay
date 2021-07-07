@@ -4,11 +4,14 @@ date: 2021-07-06
 abstract: Time is a fricle thing, it moves forward never back, but what if it did?
 abstractAuthor: name of author
 image: butterfly.jpg
+imageAlt: Arm outstretched with a blue wing butterfly landing on it
 ---
 
 **CW: Internalized transphobia, dysphoria**
 
 **Spoilers: Life Is Strange, Life Is Strange: Before the Storm**
+
+*Butterfly image &copy; by [@AmyCantNow](https://twitter.com/Amycantnow)*
 
 ## Life Is Strange
 
@@ -34,7 +37,7 @@ Chloe. It's a bittersweet ending with people continuing their lives but Chloe is
 
 ...at least, that's what I chose the first time I played.
 
-## chrysalis 
+## Chrysalis 
 
 It would be years later before I fully realized what it awoke in me, I felt things
 while playing that game, I didn't understand why it was so important to me that
@@ -55,21 +58,14 @@ relationship with my own parents.
 It was in the summer of 2020 when I finally went far enough the "straw that broke
 the camel's back" was reading 
 [Mae's coming out comic](https://www.reallifecomics.com/comic.php?comic=june-29-2020)
-at the end of june. I had finally realized all these feelings, feelings I had for 
-so long could easily be explained by me not being a man.
+at the end of june.
 
 [include more about LIS]
 ## Rewind
 
-Recently I have replayed the game, I remembered it, but I allowed myself to choose
-as if I was playing for the first time, some things were different (I like Belgian
-waffles a lot more now), gameplay followed a familar path, I tried to be a good 
-person in the game, and think about others as I try to do in everyday life.
-
-When it came to the final choice, save Chloe, or Save Arcadia Bay (bay or bae), 
-I chose Chloe this time. I didn't give much thought into it when I did, I went
-with my gut as it were. The strange thing is, this was the way I made the other
-choice the first time.
+Recently I have replayed the game, I choose some things differently (I like Belgian
+waffles a lot more now), gameplay followed a familar path. When it came to the 
+final choice, save Chloe, or Save Arcadia Bay (bay or bae), I chose Chloe this time. 
 
 After finishing the game I was lying awake in bed, wondering why I would do 
 that so differently, what had changed about me. I started realizing that, in
