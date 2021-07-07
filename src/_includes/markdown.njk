@@ -1,0 +1,12 @@
+---
+layout: template.njk
+---
+{%- if abstract -%}
+<div class="abstract">
+	<p>"{{abstract}}"</p>
+	<span>-{{abstractAuthor}}</span>
+</div>
+{%- endif -%}
+<article>
+{{content|safe}}
+</article>

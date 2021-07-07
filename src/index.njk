@@ -1,0 +1,18 @@
+---
+title: Arri Talks about gay Shit
+layout: template.njk
+image: background.jpg
+---
+<div class="floatBoxContainer">
+	{%- for post in collections.post -%}
+		<a class="articlePreview" href="{{post.url}}">
+			<div class="imageCrop">
+				<img class="previewImage" src="{{post.url}}/{{post.data.image}}">
+			</div>
+			<span class="previewTitle">
+				<span>{{post.data.title}}</span>
+				<span class="date">{{post.data.date | date("MMMM D, YYYY")}}</span>
+			</span>
+		</a>
+	{%- endfor -%}
+</div>
