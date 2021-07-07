@@ -1,0 +1,26 @@
+{
+  "name": "arri.gay",
+  "version": "1.0.0",
+  "description": "Arri talks about gay and personal shit",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "eleventy",
+		"start": "eleventy --serve --port=3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/arriIsHere/arri.gay.git"
+  },
+  "keywords": [],
+  "author": "Arriana Blais <arriblais@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://gitlab.com/arriIsHere/arri.gay/issues"
+  },
+  "homepage": "https://gitlab.com/arriIsHere/arri.gay#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.1",
+    "moment": "^2.29.1"
+  }
+}
