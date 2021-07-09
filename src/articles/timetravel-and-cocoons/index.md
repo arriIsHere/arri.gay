@@ -1,8 +1,8 @@
 ---
 title: Timetravel and Cocoons
 date: 2021-07-06
-abstract: Time is a fricle thing, it moves forward never back, but what if it did?
-abstractAuthor: name of author
+abstract:
+abstractAuthor: 
 image: butterfly.jpg
 imageAlt: Arm outstretched with a blue wing butterfly landing on it
 ---
