@@ -5,7 +5,7 @@
   "main": ".eleventy.js",
   "scripts": {
     "build": "eleventy",
-		"start": "eleventy --serve --port=3000"
+    "start": "eleventy --serve --port=3000"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,8 @@
   "homepage": "https://gitlab.com/arriIsHere/arri.gay#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.3",
+    "dateformat": "^5.0.2",
     "moment": "^2.29.1"
   }
 }
