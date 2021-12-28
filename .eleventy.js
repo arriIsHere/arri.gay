@@ -22,7 +22,11 @@ module.exports = function(eleventyConfig) {
 			"jpg",
 			"png",
 			"gif",
-			"njk"
+			"njk",
+			"ttf",
+			"otf",
+			"woff",
+			"woff2"
 		],
 		passthroughFileCopy: true
 	}
