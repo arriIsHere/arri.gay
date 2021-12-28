@@ -15,31 +15,27 @@
 		<meta name="twitter:card" content="summary_large_image">
 		
 		<title>{{title}} - Arriana Blais</title>
-		<link href="https://fonts.googleapis.com/css?family=Cormorant+Infant:300i" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Cormorant:400i" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,300" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="/lib/css/main.css">
 		<link rel="stylesheet" type="text/css" href="/lib/css/syntaxHighlight.css">
+		<style>
+		body {
+			background-image: url('{{image}}')
+		}
+		</style>
 	</head>
-	<body>
-	<header>
-		<div class="widthFix">
-			<h1>{{title}}</h1>
-		</div>
-		<a href="/" class="profile">
-			<img alt="Arri looking into the camera" src="/lib/images/profile.jpg">
-			<div class="inlineBox">
-				<span class="profileName">Arri Blais</span>
-				<span class="profileTitle">Human who loves nature and people</span>
-			</div>
+	<body class="background dark">
+	<header class="codium-header">
+		<h1>{{title}}</h1>
+		<a href="/" class="codium-profile">
+			<img class="profile-pic" alt="Arri looking into the camera" src="/lib/images/profile.jpg">
+			<span class="profile-name">Arri Blais</span>
+			<span class="profile-title">Human just doing the best she can</span>
 		</a>
 	</header>
-	<img class="backdrop" alt="{{imageAlt}}" src="{{image}}">
 	<div class="generatedBody">
 		{{content|safe}}
 	</div>
-	<footer class="footer">
+	<footer class="codium-footer dark">
 		<p>&copy; {{ globals.now | date("YYYY")}} Arriana Blais</p>
 		<p>Software Licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a></p>
 		<p>you may not use this file except in compliance with the License. </p>
