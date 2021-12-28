@@ -1,0 +1,21 @@
+/**
+ * Copyright 2021 Arriana Blais
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ */
+
+@import '/lib/css/colors.css';
+@import '/lib/css/components.css';
+@import '/lib/css/typography.css';
+
+/* Reset */
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+/* Set base font */
+html, body {
+	font-size: 16pt;
+}
+ 

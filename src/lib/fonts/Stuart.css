@@ -1,0 +1,19 @@
+/**
+ * Copyright 2021 Arriana Blais
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ */
+ @font-face {
+  font-family: 'Stuart';
+  font-weight: 1 999;
+  src: url("/lib/fonts/REIStuart-VF-Web-Subset.woff2") format("woff2-variations"),
+    url("/lib/fonts/REIStuart-VF-Web-Subset.woff2") format("woff2")
+}
+
+@font-face {
+  font-family: 'Stuart';
+  font-weight: 1 999;
+  font-style: italic;
+  src: url("/lib/fonts/REIStuartWebItalics-VF-Web-Subset.woff2") format("woff2-variations"),
+    url("/lib/fonts/REIStuartWebItalics-VF-Web-Subset.woff2") format("woff2")
+}

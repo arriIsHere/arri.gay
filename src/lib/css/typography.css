@@ -1,0 +1,91 @@
+/**
+ * Copyright 2021 Arriana Blais
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&display=swap');
+@import url('/lib/fonts/Stuart.css');
+
+html,
+body {
+	font-family: 'Baloo Tammudu 2', cursive;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Stuart", Georgia, serif;
+}
+
+:where(:first-child):is(h1, h2, h3, h4, h5, h6) {
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
+h1 {
+	display: inline-block;
+	font-size: 3em;
+	font-weight: normal;
+	margin-bottom: 0.5em;
+}
+
+h1::after {
+	content: '';
+	display: block;
+	margin: 0;
+	margin-left: 0.125em;
+
+	border-radius: 0.0625em;
+
+	height: 0.125em;
+	background-color: var(--underline-color);
+	box-shadow: var(--text-shadow);
+	width: 80%;
+
+}
+
+h2 {
+	font-size: 1.5em;
+	font-weight: normal;
+}
+
+h3 {
+	font-size: 1.125em;
+	font-weight: normal;
+}
+
+p {
+	font-family: inherit;
+	font-size: 1em;
+	font-weight: lighter;
+	line-height: 1.5em;
+	padding-bottom: 0.25em;
+}
+
+a {
+	text-decoration: none;
+	display: inline-block;
+	line-height: 0.75em;
+	color: var(--link-color);
+}
+
+a::after {
+	content: '';
+	display: block;
+	margin: 0;
+	margin-right: auto;
+	border-bottom: 0.05em solid var(--text-color);
+	width: 0;
+}
+
+a:hover::after {
+	width: 100%;
+	transition: width 600ms ease-out 300ms;
+}
+
+a:hover {
+	color: var(--text-color);
+}
+
+.center {
+	text-align: center;
+}
