@@ -128,15 +128,54 @@ a.codium-profile::after {
 .codium-profile .profile-name {
 	grid-area: name;
 	padding: 0.5em;
+	margin: 0;
 }
 
 .codium-profile .profile-title {
 	grid-area: title;
 	padding: 0.5em;
+	margin: 0;
 }
 
 
 .codium-profile img.profile-pic {
 	width: 5em;
 	border-radius: 2.5em;
+}
+
+.codium-preview-box {
+	border-radius: 0.25em;
+	position: relative;
+	width: 16em;
+	height: 9em;
+	box-shadow: var(--box-shadow);
+
+	text-align: center;
+	margin: 0.5em;
+	overflow: hidden;
+
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	background-color: var(--frosted-color);
+}
+
+a.codium-preview-box {
+}
+
+a.codium-preview-box::after {
+	content: none;
+}
+
+.codium-preview-box img.preview-image {
+	max-width: 100%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	z-index: -1;
+}
+
+.codium-preview-box * {
+	display: block;
+	margin: 0;
 }
