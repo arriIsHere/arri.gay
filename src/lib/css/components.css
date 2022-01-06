@@ -145,37 +145,48 @@ a.codium-profile::after {
 
 .codium-preview-box {
 	border-radius: 0.25em;
-	position: relative;
 	width: 16em;
 	height: 9em;
 	box-shadow: var(--box-shadow);
+	
+	position: relative;
 
 	text-align: center;
 	margin: 0.5em;
 	overflow: hidden;
 
-	display: flex;
-	justify-content: center;
-	flex-direction: column;
-	background-color: var(--frosted-color);
-}
-
-a.codium-preview-box {
 }
 
 a.codium-preview-box::after {
 	content: none;
 }
 
-.codium-preview-box img.preview-image {
-	max-width: 100%;
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	z-index: -1;
+.codium-preview-box a::after {
+	content: none;
 }
 
-.codium-preview-box * {
+.codium-preview-box img.preview-image {
+	padding: 0;
+	max-width: 100%;
+}
+
+.codium-preview-box .preview-overlay {
+	opacity: 0;
+	background-color: var(--frosted-color);
 	display: block;
-	margin: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+
+	transition: opacity 0.5s;
+}
+
+.codium-preview-box .preview-overlay:focus {
+	opacity: 1;
+}
+
+.codium-preview-box .preview-overlay:hover {
+	opacity: 1;
 }

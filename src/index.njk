@@ -4,10 +4,18 @@ layout: template.njk
 image: background.jpg
 imageAlt: pond with trees showing their fall foliage in the background, reeds sit in the foreground
 ---
-{%- for post in collections.post -%}
-	<a class="codium-preview-box" href="{{post.url}}">
-		<p>{{post.data.title}}</p>
-		<p>{{post.data.date | date("MMMM D, YYYY")}}</p>
-		<img class="preview-image" src="{{post.url}}/{{post.data.image}}">
-	</a>
-{%- endfor -%}
+<article class="codium-content-page light" aria-label="blog posts">
+	{%- for post in collections.post -%}
+
+		<figure class="codium-preview-box">
+			<img class="preview-image" alt="{{post.data.imageAlt}}" src="{{post.url}}/{{post.data.image}}">
+			<figcaption>
+				<a href="{{post.url}}" class="preview-overlay">
+					<p>{{post.data.title}}</p>
+					<p>{{post.data.date | date("MMMM D, YYYY")}}</p>
+				</a>
+			</figcaption>
+		</figure>
+
+	{%- endfor -%}
+</article>
