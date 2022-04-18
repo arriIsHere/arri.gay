@@ -1,9 +1,9 @@
 ---
 title: Timetravel and Cocoons
 date: 2021-07-06
+tags: draft
 abstract:
 abstractAuthor: 
-tags: draft
 image: butterfly.jpg
 tone: light
 imageAlt: Arm outstretched with a blue wing butterfly landing on it
@@ -17,18 +17,25 @@ imageAlt: Arm outstretched with a blue wing butterfly landing on it
 *by <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/Amycantnow">@AmyCantNow</a> &copy;* 
 *2021 Amy, all rights reserved*
 
-## Life Is Strange
+I am going to talk a bit about one of my favorite games. Life is Strange
+is something I pick up a lot. I already know the story, I know how it all ends
+but it's a game that means a lot to me. While this will discuss
+the game, things I liked about it, things I dislike about it, it's not a game review.
+rather the game is used to tell a story of how stories can tell us things about ourselves.
+## Chrysalis
 
-Back in 2014 I went to Pax East, it was my first year going, and I was honestly
-not much of a gamer, my friend who I went with was though. There were 
-lots of good memories from those two days, but one event in particular stook out. 
-We attended a panel for a game made by a studio in France, published by Square Enix. 
-It involved a heavy amount of choice and having repercussions for said choices. 
-"This action," as it said, "will have consequences".
+The story starts in 2014 when I went to Pax East, it was my first year going, 
+and I was honestly not much of a gamer (still am not TBH).
+There were lots of good memories from those two days, but one event in particular 
+stuck out. My friend and I attended a panel for a game made by a studio in France
+that I had never heard of. The game was published by Square Enix. and involved a 
+heavy amount of choice and having repercussions for said choices. "This action," 
+as it said, "will have consequences".
 
-It seemed to call to me, and knowing it was primarily a interactive story rather
-than a game, I decided to buy it a few days later, I quickly got through the first
-two episodes and anxiously waited for the third one to come out.
+Knowing it was primarily a interactive story rather
+than a game, I decided to buy it a few days later. I quickly got through the first
+two episodes and anxiously waited for the third one to come out. By the end I 
+was hungry for more interactive media that told stories like Life is Strange.
 
 The game follows Maxine Caulfield, who discovers her "rewind" powers by saving the 
 life of her childhood friend, Chloe Price. There are cataclysmic events that take 
@@ -44,32 +51,53 @@ continuing their lives unharmed, but Chloe is gone.
 
 ...at least, that's what I chose the first time I played.
 
-## Chrysalis 
+## Out of time 
 
-It would be years later before I fully realized what it awoke in me, I felt things
-while playing that game, I didn't understand why it was so important to me that
+It would be years later before I fully realized why I felt things
+while playing that game. I didn't understand why it was so important to me that
 Max and Chloe were more than friends, I didn't understand that feeling of longing
 when I played it. Why did I want to be like Max? Was there a sort of desire to 
-relive highschool (no, highschool sucked)? I wouldn't ask these questions until 
-around 5 years later. 
+relive highschool (no, highschool sucked)?
 
 Those questions sat there. They sat there as I replayed the game so many times I 
 lost count. I could not figure out what was making me cry every time I played it.
 
-A prequel called "Life is Strange: Before the Storm" came out a few years later,
+A prequel ("Life is Strange: Before the Storm") came out a few years later,
 this time it followed Chloe, in this one I noticed there was something about Rachel
 Amber that I caught on to. She had a complicated relationship with her parents, 
 she was afraid to disobey them, and I could understand that, it mirrored my
 relationship with my own parents.
 
-It wasn't summer of 2020, when we were all stuck at home due to covid that I 
-finally figured things out. The "straw that broke the camel's back" was reading 
-<a href="https://www.reallifecomics.com/comic.php?comic=june-29-2020" 
-   rel="noopener noreferrer" target="_blank">Mae's coming out comic</a>
-at the end of june.
-## Rewind
+It wasn't summer of 2020, when we were all stuck at home due to covid, that I 
+finally figured things out.
 
-Recently I have replayed the game, I choose some things differently (I like Belgian
+## Dark room
+
+The first few months of 2020 were a really bad time for me. I was unable to see people 
+and being alone with my thoughts and body, I had a harder time distancing myself from my
+dysphoria. I was drinking a lot more, and my usual apathy for living evolved into self harm. 
+I eventually came to terms with who I was, but it took until october until I could even admit 
+to myself that I might, possibly, be transgender. It wasn't until January that I actually called
+an informed consent clinic to get started on hormones.
+
+Hormones were a wild ride. It was lik...well, escaping a the basement of a 
+deranged kidnaper during a hurricane in a POS truck driven by your mentally 
+ill friend with blue hair.
+
+## Polarized
+
+I replayed the game a few months after beginning hormones, and about a week after 
+coming out to my coworkers. The game had a different tone this time.
+
+Instead of the storying following a wonderful fleeting moment that she must give up
+because the world she lives in feels like it's working against her friend. It's a 
+story of hardship continuing throughout the game, and giving up some relationships
+for one that is far more valuable.
+
+The narrative was probably not intended to be queer in nature. It was written by two 
+straight cisgender men in their 40s, as is seen my some questionable dialog choices.
+
+I replayed the game, I choose some things differently (I like Belgian
 waffles a lot more now), however, gameplay generally followed a familiar path. 
 When it came to the final choice, save Chloe, or Save Arcadia Bay (bay or bae), 
 I chose Chloe this time. 
@@ -79,30 +107,9 @@ that so differently, what had changed about me. I started realizing that, in
 addition to helping me discover that I was more a girl than I am a boy, the 
 game reacted differently to my new priorities in life.
 
-## Alive
-
-My choice 5 years ago to sacrifice Chloe was highly reflective of how I viewed 
-myself, I was trying to kill who I really was to maintain the facade of normalcy,
-to be the "responsible son" my parents thought they had. But the thing about
-this is it's very hard to kill who you are, and if you leave your feelings
-unhandled, it's just going to come back stronger.
-
-Try as I might, the storm kept coming back, and when it finally hit I knew I had
-to actually deal with it. Much like the pivotal choice at the end of Life Is strange
-I had to choose to keep things "normal" and slowly watch my self die inside my own
-body, or actually be myself even if it would destroy many relationships that I had.
-
-As in my replay through Life Is Strange, when I was confronted by my trans identity
-last year I finally made the choice that was right for me and other people be damned. 
-Every day I wake up alive, because I choose Arri and Chloe over false normalcy 
-and Arcadia Bay.
-
 *Life Is Strange and the Life Is Strange logo is &copy; Donod entertainment all rights reserved*
 
-*RealLifeComics is &copy; of Mae Dean all rights reserved*
-
 *<a href="https://twitter.com/Amycantnow/status/1397997639799652356">"Butterfly Effect"</a>*
-*&copy; 2021 by* 
+*&copy; 2021-2022 by* 
 *<a rel="noopener noreferrer" target="_blank" href="https://twitter.com/Amycantnow">@AmyCantNow</a> All rights reserved.*
-*Amy "The Creator" may revoke use of "Butterfly Effect" "The Work" at any time for any reason.*
-*The Work may not be used for any reason without the explicit permission of The Creator.*
+*This image may not be used for any reason without the explicit permission of The Creator.*
