@@ -1,6 +1,6 @@
 ---
 title: Timetravel and Cocoons
-date: 2021-07-06
+date: 2022-04-23
 tags: draft
 abstract:
 abstractAuthor: 
@@ -11,35 +11,35 @@ imageAlt: Arm outstretched with a blue wing butterfly landing on it
 
 **CW: Internalized transphobia, dysphoria**
 
-**Spoilers: Life Is Strange, Life Is Strange: Before the Storm**
+**Spoilers: Life Is Strange**
 
 *Header Image <a href="https://twitter.com/Amycantnow/status/1397997639799652356">"Butterfly Effect"</a>*
 *by <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/Amycantnow">@AmyCantNow</a> &copy;* 
 *2021 Amy, all rights reserved*
 
-I am going to talk a bit about one of my favorite games. Life is Strange
-is something I pick up a lot. I already know the story, I know how it all ends
-but it's a game that means a lot to me. While this will discuss
+I am going to talk a bit about one of my favorite games, Life is Strange. 
+I already know the story, I know how it all ends but it's a game that 
+means a lot to me. While this will discuss
 the game, things I liked about it, things I dislike about it, it's not a game review.
-rather the game is used to tell a story of how stories can tell us things about ourselves.
+rather the game is used to tell a story of how fiction can tell us things about ourselves.
 ## Chrysalis
 
-The story starts in 2014 when I went to Pax East, it was my first year going, 
+In 2014 I went to Pax East, it was my first year going, 
 and I was honestly not much of a gamer (still am not TBH).
-There were lots of good memories from those two days, but one event in particular 
+I have a lot of good memories from those two days, but one event in particular 
 stuck out. My friend and I attended a panel for a game made by a studio in France
-that I had never heard of. The game was published by Square Enix. and involved a 
-heavy amount of choice and having repercussions for said choices. "This action," 
-as it said, "will have consequences".
+that I had never heard of. The game involved a 
+heavy amount of choice and having repercussions for said choices. 
+"This action will have consequences".
 
 Knowing it was primarily a interactive story rather
 than a game, I decided to buy it a few days later. I quickly got through the first
 two episodes and anxiously waited for the third one to come out. By the end I 
 was hungry for more interactive media that told stories like Life is Strange.
 
-The game follows Maxine Caulfield, who discovers her "rewind" powers by saving the 
+The game follows Maxine Caulfield, who discovers her "time rewind" powers by saving the 
 life of her childhood friend, Chloe Price. There are cataclysmic events that take 
-place as a result of this: a tornado threatens to level the town, eclipses take 
+place as a result of this: a tornado threatens to level the town, an eclipses take 
 place when none should, beached wales are found along the shore, and a double moon 
 appears.
 
