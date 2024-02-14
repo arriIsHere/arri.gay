@@ -1,10 +1,12 @@
 const Moment = require('moment');
 const SyntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
+const PluginRss = require('@11ty/eleventy-plugin-rss');
 
 module.exports = function(eleventyConfig) {
 
 	// Install plugin for syntax highlighting
 	eleventyConfig.addPlugin(SyntaxHighlight);
+	eleventyConfig.addPlugin(PluginRss);
 
 	eleventyConfig.addFilter('date', function(value, format) {
 		return Moment(value).format(format);
