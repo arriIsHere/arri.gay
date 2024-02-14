@@ -1,0 +1,42 @@
+/**
+ * Copyright 2024 Arriana Blais
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ */
+
+ .codium-profile {
+	display: grid;
+	grid-template-areas: 
+	"picture name"
+	"picture title";
+
+	justify-content: start;
+	align-content: center;
+	column-gap: 1em;
+}
+
+a.codium-profile::after {
+	content: none;
+}
+
+.codium-profile .profile-pic {
+	grid-area: picture; 
+}
+
+.codium-profile .profile-name {
+	grid-area: name;
+	padding: 0.5em;
+	margin: 0;
+}
+
+.codium-profile .profile-title {
+	grid-area: title;
+	padding: 0.5em;
+	margin: 0;
+}
+
+
+.codium-profile img.profile-pic {
+	width: 5em;
+	border-radius: 2.5em;
+}
