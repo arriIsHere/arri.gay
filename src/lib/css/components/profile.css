@@ -12,7 +12,9 @@
 
 	justify-content: start;
 	align-content: center;
-	column-gap: 1em;
+	column-gap: 0.5em;
+
+	margin-top: var(--spacing-relative-small);
 }
 
 a.codium-profile::after {

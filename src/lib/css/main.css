@@ -7,3 +7,7 @@
 @import 'https://codium.rocks/css/main.css';
 @import '/lib/css/components/preview-box.css';
 @import '/lib/css/components/profile.css';
+
+.codium-content-page.preview-box-container {
+    padding: var(--spacing-medium);
+}

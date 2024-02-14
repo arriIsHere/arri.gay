@@ -13,9 +13,12 @@
 	position: relative;
 
 	text-align: center;
-	margin: 0.5em;
 	overflow: hidden;
+	margin: 0;
+}
 
+.codium-preview-box:not(:last-child) {
+	margin-bottom: var(--spacing-relative-medium);
 }
 
 a.codium-preview-box::after {
