@@ -9,7 +9,7 @@ tone: light
 
 **Spoilers**
 
-The original *Life Is Strange* has lots of charm. I wrote about the game's impact on me [in another post](/artices/timetravel-andcocoons).
+The original *Life Is Strange* has lots of charm. I wrote about the game's impact on me [in another post](/artices/timetravel-and-cocoons).
 True Colors was another deeply impactful game for me. The DLC for it, *wavelengths* was the one I found to be the most charming.
 
 Wavelengths doesn't have many new assets, it reuses the record store, Steph's model, the radio station etc. from *True colors*.

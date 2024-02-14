@@ -13,9 +13,9 @@ imageAlt: Arm outstretched with a blue wing butterfly landing on it
 
 **Spoilers: Life Is Strange**
 
-*Header Image <a href="https://twitter.com/Amycantnow/status/1397997639799652356">"Butterfly Effect"</a>*
-*by <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/Amycantnow">@AmyCantNow</a> &copy;* 
-*2021 Amy, all rights reserved*
+*Header Image <a href="https://twitter.com/Milocantnow/status/1397997639799652356">"Butterfly Effect"</a>*
+*by <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/Milocantnow">@Milocantnow</a> &copy;* 
+*2024 Milo, all rights reserved*
 
 I am going to talk a bit about one of my favorite games, Life is Strange. 
 I already know the story, I know how it all ends but it's a game that 
@@ -109,7 +109,7 @@ game reacted differently to my new priorities in life.
 
 *Life Is Strange and the Life Is Strange logo is &copy; Donod entertainment all rights reserved*
 
-*<a href="https://twitter.com/Amycantnow/status/1397997639799652356">"Butterfly Effect"</a>*
-*&copy; 2021-2022 by* 
-*<a rel="noopener noreferrer" target="_blank" href="https://twitter.com/Amycantnow">@AmyCantNow</a> All rights reserved.*
+*<a href="https://twitter.com/Milocantnow/status/1397997639799652356">"Butterfly Effect"</a>*
+*&copy; 2021-2024 by* 
+*<a rel="noopener noreferrer" target="_blank" href="https://twitter.com/Milocantnow">@Milocantnow</a> All rights reserved.*
 *This image may not be used for any reason without the explicit permission of The Creator.*
