@@ -4,4 +4,5 @@
  * you may not use this file except in compliance with the License.
  */
 
-@import '/lib/css/codium.css';
+@import 'https://codium.rocks/css/main.css';
+@import '/lib/css/components.css';

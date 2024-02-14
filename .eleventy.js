@@ -10,6 +10,8 @@ module.exports = function(eleventyConfig) {
 		return Moment(value).format(format);
 	});
 
+	eleventyConfig.addPassthroughCopy({"node_modules/@codium-css/css/": "lib/css/codium"});
+
 	return {
 		dir: {
 			input: 'src',
