@@ -1,6 +1,6 @@
 ---
 title: Your Aesthetics are not Morality
-date: 2022-04-23
+date: 2024-04-23
 tags: draft
 abstract:
 abstractAuthor: 
