@@ -18,7 +18,7 @@
 }
 
 .codium-preview-box:not(:last-child) {
-	margin-bottom: var(--spacing-relative-medium);
+	margin-bottom: var(--spacing-relative-small);
 }
 
 a.codium-preview-box::after {
@@ -53,4 +53,10 @@ a.codium-preview-box::after {
 
 .codium-preview-box .preview-overlay:hover {
 	opacity: 1;
+}
+
+@media (max-width: 1280px) {
+	.codium-preview-box .preview-overlay {
+		opacity: 1;
+	}
 }

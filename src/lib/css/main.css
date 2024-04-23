@@ -9,5 +9,17 @@
 @import '/lib/css/components/profile.css';
 
 .codium-content-page.preview-box-container {
+    gap: var(--spacing-medium);
     padding: var(--spacing-medium);
+
+    flex-wrap: wrap;
+    display: flex;
+}
+
+@media (max-width: 1280px) {
+    .codium-content-page.preview-box-container {
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: center;
+    }
 }
