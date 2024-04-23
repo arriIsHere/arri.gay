@@ -4,7 +4,7 @@
  * you may not use this file except in compliance with the License.
  */
 
-@import 'https://codium.rocks/css/main.css';
+@import '/lib/css/codium/main.css';
 @import '/lib/css/components/preview-box.css';
 @import '/lib/css/components/profile.css';
 

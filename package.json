@@ -26,6 +26,6 @@
     "moment": "^2.29.1"
   },
   "dependencies": {
-    "@codium-css/css": "^0.0.2"
+    "@codium-css/css": "^0.1.1"
   }
 }
