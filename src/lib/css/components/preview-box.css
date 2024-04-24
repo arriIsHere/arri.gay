@@ -29,6 +29,10 @@ a.codium-preview-box::after {
 	content: none;
 }
 
+.codium-preview-box p {
+	margin: 0;
+}
+
 .codium-preview-box img.preview-image {
 	padding: 0;
 	max-width: 100%;
@@ -45,6 +49,18 @@ a.codium-preview-box::after {
 	right: 0;
 
 	transition: opacity 0.5s;
+}
+
+.codium-preview-box .preview-overlay > :only-child {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 
 .codium-preview-box .preview-overlay:focus {
