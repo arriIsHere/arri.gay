@@ -94,18 +94,17 @@ ill friend with blue hair.
 I replayed the game a few months after beginning hormones, and about a week after 
 coming out to my coworkers. The game had a different tone this time.
 
-Instead of the storying following a wonderful relationship cut short. It's a 
-story of hardship that continuing throughout the game, and giving up many relationships
-for one that is far more valuable.
+Instead of the story following a wonderful relationship cut short. It's a 
+story of hardship and giving up other relationships for one that is far more valuable.
 
-When the time came, I chose Chloe this time. 
+When the time came, I chose Chloe. 
 
 After finishing the game I was lying awake in bed, wondering why I would do 
 that so differently, what had changed about me. I started realizing that, in
 addition to helping me discover that I was more a girl than I am a boy, the 
 game reacted differently to my new priorities in life.
 
-Life is Strange is like a polaroid selfie, it showed me things about myself 
+Life is Strange for me was like a polaroid selfie, it showed me things about myself 
 that I couldn't easily see on my own.
 
 *Life Is Strange and the Life Is Strange logo is &copy; Donod entertainment all rights reserved*
