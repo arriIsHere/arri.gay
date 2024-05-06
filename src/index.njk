@@ -5,7 +5,7 @@ image: background.jpg
 imageAlt: pond with trees showing their fall foliage in the background, reeds sit in the foreground
 ---
 <article class="codium-content-page preview-box-container light" aria-label="blog posts">
-	{%- for post in collections.post -%}
+	{%- for post in collections.published -%}
 
 		<figure class="codium-preview-box">
 			<img class="preview-image" alt="{{post.data.imageAlt}}" src="{{post.url}}/{{post.data.image}}">
