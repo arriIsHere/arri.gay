@@ -31,10 +31,15 @@ When you have seemingly infinite energy for a task, it's best to timebox it. Don
 on it or else you run the risk of overengineering it, Or worse, burn yourself out and loose interest in it. 
 I set timers and alarms so that I don't overdo it. The hyperfocus task will still be there tomorrow.
 
-For things that you have only a short burst for. You want to lean into it. Get as much done in the burst then take
-a break, maybe work on a hyper focus task. When you are done try to do one or two things in the burst task.
-When you run out of energy, just switch back to the other thing.
+For things that you have only a short burst for. You want to lean into it. Get as much done in the burst as you
+can, then take a break. Maybe work on a hyper focus task. When you have finished your break or timebox, try to get
+one or two more things done on the burst task.
 
 ## Motivation
+
+Going to start this out with a confession: motivation is something I still don't have figured out. There are 
+though, a few things that have worked in my case. I hope they prove helpful for others as well.
+
+
 
 ## Burnout (don't do it!)
