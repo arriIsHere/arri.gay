@@ -9,13 +9,11 @@ tone: light
 imageAlt: A photograph of a full mood with a small tree branch occluding it
 ---
 
-Writing about productivity seems to be in vouge recently, so lets write about it! I am a neuro-spicy person so a lot of this is going to be aimed at other autistic and ADHD people, but
-if you find this useful either way, great! This is also for you then.
-
-Like lost of people with ADHD, I had to figure productivity out early or fail at 
-school. As early as 6 I remember trying (and failing) to get work done in the same way that my peers did. 
-It took many years before I began to develop my personal system to get things done, motivate myself, and most 
-importantly not burn out. This is a personal system for me but hopefully some other people might find it helpful.
+Writing about productivity seems to be in vouge recently. I don't particularly think about productivity much,
+but I think that's because I have a relatively useful system. Like lost of people with ADHD I had to figure 
+it out early or fail at school. As early as 6 I remember trying and failing to get work done in the same way 
+that my neurotypical peers did. It took many years before I began to develop my personal system to get things 
+done, motivate myself, and most importantly not burn out.
 
 ## Getting things done
 
@@ -43,7 +41,21 @@ to drop, switch to something else.
 ## Motivation
 
 Going to start this out with a confession: motivation is something I still don't have figured out. There are 
-though, a few things that have worked in my case. I hope they prove helpful for others as well.
+though, a few things that have worked in my case. I hope they prove helpful for others as well. When it comes
+to frogs, and taking breaks from hyperfocus, motivation is a huge barrier for me staying on task.
+
+For frogs I find one way is the "eat your dessert first" system. For many of us with ADHD our brains don't have
+enough dopamine to start a task. Sometimes, to get started I need to give myself a little reward before the frog. 
+It could be a sweet treat, a walk, a walk to your favorite trail. A 30min play session in your favorite video game. 
+Conversely, I sometimes find it easier to delay the reward till the end. The trick is figuring out what the hinderance
+is, if you know you will be able to complete the task if you start it, desert first, frog second. If you can easily start
+the task but are having trouble staying focused, get right to it and plan a reward once it's done. 
+
+> What if a task is hard to start and hard to get over the finish line? 
+>
+> Make an icecream sandwich! Give yourself a treat before to get going 
+> and plan another reward when you get over the line.
+
 
 One is to do stuff in a "high energy" time of the day. High energy times for me are either morning or late at night. Generally I try to keep early morning as my dedicated high energy time and get as much done as I can, leaving the rest of the day for meetings.
 
