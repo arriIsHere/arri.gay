@@ -19,23 +19,26 @@ importantly not burn out. This is a personal system for me but hopefully some ot
 
 ## Getting things done
 
-Focusing was and still is a challenge. I am fortunate that my current career is something that I enjoy doing,
-but there are many things that are a slog to complete. For these I try to follow the "eat the frog" rule; getting
-unpleasant or draining tasks over with first. This is helpful because the rest of the day feels like a reward, but 
-also because it's draining to think about tasks you don't want to do. Having unpleasant chores looming over you is
-never a good thing.
+Tasks for me tend to fall into three categories. First there are the unpleasant tasks (I call them frogs, more
+on that in a minute.) Enjoyable tasks cover the remaining two: those that I could spend hours on (we'll 
+call this hyperfocuses), and those that I only want to spend minimal time on (I call these bursts). 
+Different tactics are required for each of these to lean into the advantages and counteract the negatives.
 
-With things that are enjoyable, I feel they fall into two categories: those that I could spend hours on (we'll 
-call this hyperfocus), and those that I only want to spend minimal time on (call these burst tasks). 
-These two types require two different tactics. 
+I am fortunate that my current career is something that I enjoy doing, but there are many things that are a 
+slog to complete (frogs). For these I try to follow the "eat the frog" rule; getting
+unpleasant or draining tasks over with first. This is helpful for two reasons: first, the rest of the day feels 
+like a reward, and second, you spend as little time as possible dreading these unpleasant tasks.
 
 When you have seemingly infinite energy for a task, it's best to timebox it. Don't spend more than a few hours 
-on it or else you run the risk of overengineering it, Or worse, burn yourself out and loose interest in it. 
-I set timers and alarms so that I don't overdo it. The hyperfocus task will still be there tomorrow.
+on it or else you run the risk of overengineering. Or worse, you'll burn yourself out and loose interest in it prior
+to completion. When I know a task is going to be a hyperfocus, I set timers and take a break when they are over. 
+If I struggle to switch I remind myself it will still be there in a few hours. 
 
-For things that you have only a short burst for. You want to lean into it. Get as much done in the burst as you
-can, then take a break. Maybe work on a hyper focus task. When you have finished your break or timebox, try to get
-one or two more things done on the burst task.
+For things that you have only a short burst of energy for, you want to lean into it. Get as much done in the burst as you
+can, then take a break. Maybe work on a hyper focus task. When you have finished your break or timebox, try switching back.
+What's important with bursts is don't overextend yourself, if you push yourself too hard the burst is gone and 
+it becomes a frog. Try to keep these tasks in burst by paying close attention to your interest. When it starts 
+to drop, switch to something else.
 
 ## Motivation
 
