@@ -17,15 +17,6 @@ imageAlt: Arm outstretched with a blue wing butterfly landing on it
 *by <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/Milocantnow">@Milocantnow</a> &copy;* 
 *2024 Milo, all rights reserved*
 
-I am going to talk a bit about one of my favorite games, Life is Strange. This game 
-is special in that it helped me understand myself at a time when there was lots of confusion.
-Starting transition is similar to a second adolescence, so what better way to tell it than 
-a game about teens encountering a natural disaster.
-
-While this will discuss
-the game, things I liked about it, and things I dislike about it, this is not a game review.
-Rather, the game is used to tell a story of how fiction can tell us things about ourselves.
-
 I am going to talk a bit about one of my favorite games, Life is Strange. 
 I already know the story, I know how it all ends but it's a game that 
 means a lot to me. While this will discuss
