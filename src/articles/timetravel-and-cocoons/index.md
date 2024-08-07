@@ -26,6 +26,12 @@ While this will discuss
 the game, things I liked about it, and things I dislike about it, this is not a game review.
 Rather, the game is used to tell a story of how fiction can tell us things about ourselves.
 
+I am going to talk a bit about one of my favorite games, Life is Strange. 
+I already know the story, I know how it all ends but it's a game that 
+means a lot to me. While this will discuss
+the game, things I liked about it, things I dislike about it, it's not a game review.
+rather the game is used to tell a story of how fiction can tell us things about ourselves.
+This is a story about self discovery, and what this games told me about who I am.
 ## Chrysalis
 
 In 2014 I went to Pax East, it was my first year going, 
