@@ -8,6 +8,32 @@
 @import '/lib/css/components/preview-box.css';
 @import '/lib/css/components/profile.css';
 
+/* force it to fill the window*/
+body {
+    min-height: 100vh;
+
+    display: grid;
+
+    grid-template-rows: auto 1fr auto;
+
+    grid-template-areas: 
+    "header"
+    "body"
+    "footer";
+}
+
+header {
+    grid-area: header;
+}
+
+main {
+    grid-area: body;
+}
+
+footer {
+    grid-area: footer;
+}
+
 .codium-content-page.preview-box-container {
     gap: var(--spacing-medium);
     padding: var(--spacing-medium);

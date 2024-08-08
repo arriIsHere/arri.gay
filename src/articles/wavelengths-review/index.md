@@ -1,7 +1,7 @@
 ---
 title: Wavelengths and Pendemics
-date: 2022-01-06
-tags: draft
+date: 2023-10-06
+tags: published
 image: rainbowSoundwave.svg
 imageAlt: A sound wave display with a rainbow of colors across it
 tone: light

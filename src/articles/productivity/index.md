@@ -1,21 +1,21 @@
 ---
 title: The System Clock
-date: 2023-04-23
-tags: draft
+date: 2024-04-23
+tags: published
 abstract: 
 abstractAuthor: 
-image:
+image: moon.jpg
 tone: light
-imageAlt: 
+imageAlt: A photograph of a full mood with a small tree branch occluding it
 ---
 
 Writing about productivity seems to be in vouge recently, so lets write about it! I am a neuro-spicy person so a lot of this is going to be aimed at other autistic and ADHD people, but
 if you find this useful either way, great! This is also for you then.
 
-Like lost of people with ADHD I had to figure productivity out early or fail at 
+Like lost of people with ADHD, I had to figure productivity out early or fail at 
 school. As early as 6 I remember trying (and failing) to get work done in the same way that my peers did. 
 It took many years before I began to develop my personal system to get things done, motivate myself, and most 
-importantly not burn out.
+importantly not burn out. This is a personal system for me but hopefully some other people might find it helpful.
 
 ## Getting things done
 
