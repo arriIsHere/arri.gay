@@ -53,4 +53,4 @@ so common that [burnout](https://www.mayoclinic.org/healthy-lifestyle/adult-heal
 Things that help me are setting mandated breaks. Putting a break on your calendar. I also have made sure I don't spend more than an hour or so on tasks without getting up for a quick breather. Using slackbot to remind myself to take a break is generally helpful.
 
 Long term burnout is a more tricky one. There isn't a logical rule for how long you should go 
-before taking vacation. For me this is partly on vibes partly on "have you taken a week off in the last 6-months." If you get to the second one you need to schedule timeoff soon. You're getting to the bottom of the wick. Generally, if I do something "big" I like to take time off. If I am not sure if something is big, best to assume it is.
+before taking vacation. For me this is partly on vibes and partly on "have you taken a week off in the last 6-months." If you get to the second one you're getting to the bottom of the wick, schedule timeoff Now! Another guideline I us whenever I finish something "big" I like to take time off. If I am not sure if something is big, best to assume it is.
