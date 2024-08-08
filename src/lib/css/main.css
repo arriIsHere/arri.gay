@@ -43,6 +43,7 @@ footer {
 }
 
 @media (max-width: 1280px) {
+
     .codium-content-page.preview-box-container {
         flex-direction: column;
         flex-wrap: nowrap;
