@@ -1,6 +1,6 @@
 ---
 title: Battlestations Everyone
-date: 2019-03-11
+date: 2019-03-13
 abstract: 
 abstractAuthor: 
 image: mysetup.jpg
@@ -10,7 +10,7 @@ I like working from home, probably good then that my employment is flexable for 
 
 # Old Workstation
 
-My first workstation was centered around my previous setup where I had a rather bedroom that I was using for an office. A few requirements popped up: cozy space, natural light, and physical stimulation, and three monitors.
+My first workstation was centered around my previous setup where I had a spare bedroom that I was using for an office. A few requirements popped up: cozy space, natural light, and physical stimulation, and three monitors.
 
 ## Cozy Space
 
@@ -24,33 +24,32 @@ This is a big one, having sunlight (or moonlight for my fellow night owls) has a
 
 ## Physical Stimulation
 
-I can't sit still. I know I'm not the only person who feels this way, but for me this is probably one of the most frustrating things about my job. Previously I would tap my foot. The rate of my "tapping" though would cause other objects to vibrate. Personally I like to not let my personal problems cause distress to those around me and exercise balls seemed like a way to mitigate it.
+I can't sit still. I know I'm not the only person who feels this way, but for me this is probably one of the most frustrating things about my job. Previously I would tap my foot. The rate of my "tapping" though would cause other objects to vibrate and caused some disdain with my coworkers. Personally, I prefer not let my personal problems cause distress to those around me and exercise balls seemed like a way to mitigate it.
 
 ## The Build
 
-My original setup consisted of a desktop (under the desk), three monitors, directly in front of one of the largest windows in my house, and and exercise ball to sit on (yep).
+My original setup consisted of a desktop tower (under the desk), three monitors, directly in front of one of the largest windows in my house, and and exercise ball to sit on.
 
 # New Build
 
-Last week I decided to update my workstation and I had a few things I wanted to change. Much like my last build I wanted the same three things. I wanted a cozy workspace, with light, and physical stimulation. These requirements were refined and added to this time around.
+Last week I decided to update my workstation as there were a few things I wanted to change. Much like my last build, I wanted the same three things: a cozy workspace, with light, and physical stimulation. While all my requirements remained the same, the implementation was refined and added to.
 
 ## Cozy Worksapce
 
-While I still like me a cozy workspace, my definition of cozy has changed a bit. While I still like feeling closed in, what Is much more important is being able to relax. This is why I now have a leather chase for lounging around in. Another thing that plays into this is making sure there is a lot of warm light for when I am working. 
+While I still like me a cozy workspace, my definition of cozy has changed a bit. While I still like feeling closed in, what Is much more important is being able to relax. This is why I now have a leather chair for lounging around in. Another thing that plays into this is making sure there is a lot of warm light for when I am working. 
 
 ### Comfy Light
 
-I have a bit of a bias towards warm light. When working at night it helps to have something with some yellow undertones especially when there are all manner of blue lights.  My last desk was also in a bit of a dark corner so now it feels less like I am working in the basement Barad-dûr.
+I have a bit of a bias towards warm light. When working at night it helps to have something with some yellow undertones. This is especially important when there are all manner of blue lights.  My last desk was also in a bit of a dark corner so now it feels less like I am working in the basement Barad-dûr.
 
-### M'Esthetic
+### Esthetic
 
-Equally as important as lighting is decoration. Personally the things that make me calm and happy are wood, leather, books and contrasts between light brown and black. There are many esthetics like this but this one is mine.
+Equally as important as lighting is decoration. Personally, the things that make me calm and happy are wood, leather, books and contrasts between light brown and black. There are many esthetics like this, but this one is mine.
 
 ## Stand Up
 
-Much like the exercise ball (which I still use), a standing desk allows me provide an output for my pent up energy. It also grants variety in what I can do while working. I can stand if I am to antsy, and I can sit if I am to tired.  
-
+Much like the exercise ball (which I still use when seated), a standing desk allows me provide an output for my pent up energy. Standing desks also grant variety in what can be done while working. I can stand if I am to antsy, and I can sit if I am to tired.
 
 ## Thinking space
 
-I would estimate that probably about 5-10% of my actual time is spent actually writing code and this is when my primary work is development. In my current role where I am designing systems for other engineers to code, it's more like 1-2%. When I have any design work to do, I grab my mechanical pencil, a college ruled notebook and go sit in a nice chair some tea or coffee and think it through. Chairs like this are also nice for reading too.
+I would estimate that probably about 5-10% of my actual time is spent actually writing code and this is when my primary work is development. In my current design/architecture role, it's more like 1-2%. When I have to do some deep design work to do, I grab my mechanical pencil and a college ruled notebook; then I go sit in a nice chair some tea or coffee and think it through. Chairs like this are also nice for reading in my leisure time too.
