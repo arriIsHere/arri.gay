@@ -35,6 +35,10 @@ footer {
     grid-area: footer;
 }
 
+.codium-content-page img {
+    max-width: 100%;
+}
+
 .codium-content-page.preview-box-container {
     gap: var(--spacing-medium);
     padding: var(--spacing-medium);

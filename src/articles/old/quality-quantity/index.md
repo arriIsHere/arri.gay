@@ -1,9 +1,9 @@
 ---
 title: Quality Over Quantity
 date: 2019-04-18
-abstract:
-abstractAuthor:
+tags: published
 image: dm-book.jpg
+imageAlt: An open leather book with a single page reading "Chapter 16" on it. Other words are there but are obscured by the green speckled polyhedral dice on its surface.
 ---
 
 For the past two weeks my life had some turbulence. This put the weekly D&D session I run to be put on pause for while I got things sorted. I expected that this would feel more difficult--returning after being away for this long. What I found instead was a better session than the ones before. This got me thinking about how this is like work and life; and how agreeing to less can mean accomplishing more.

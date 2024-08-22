@@ -9,6 +9,13 @@ abstract: If you wish to make apple pie from scratch, you must first create the 
 abstractAuthor: Carl Sagan
 ---
 
+## Note from future Arri
+
+This is an older blog post, feel free to read through it if you like but I have since moved to using [eleventy](//www.11ty.io/). 
+you can read more about it in [Eleventy Won](/articles/old/2019/03/03/).
+
+---
+
 ## So...I Made a Blog.
 
 Over the past few months I have been revamping my web presence. This endeavor started out as

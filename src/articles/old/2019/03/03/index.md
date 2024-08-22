@@ -1,9 +1,11 @@
 ---
 title: Eleventy Won
 date: 2019-03-03
+tags: published
 abstract: eleventy-one years is far too short a time to live among such excellent and admirable hobbits. I don't know half of you half as well as I should like, and I like less than half of you half as well as you deserve.
-abstractAuthor: J.R.R. Tolkien, The Fellowship of the Ring
+abstractAuthor: Billbo from J.R.R. Tolkien's The Fellowship of the Ring
 image: hobbitonfeast.jpg
+imageAlt: A long table filled with all manor of feasts items. The table is empty of people but is so full it is overflowing.
 layout: markdown.njk
 ---
 
@@ -17,7 +19,7 @@ Since no one was doing static site generators/template engines right I decided t
 
 ## Better Solution
 
-Several months back I was suggested the static site generator [eleventy](https://www.11ty.io/). Quite honestly this is better than even a custom built generator could be. It took very little time for me to port my blog over to this new generator, and soon I had it up and running exactly as it was with my own generator. Looking over it I noticed that it solved all my problems.
+Several months back I was suggested the static site generator [eleventy](//www.11ty.io/). Quite honestly this is better than even a custom built generator could be. It took very little time for me to port my blog over to this new generator, and soon I had it up and running exactly as it was with my own generator. Looking over it I noticed that it solved all my problems.
  1. Data Is kept in the actual html/md files.
  2. It allows recursive layouts.
  3. A reasonable data inheritance model

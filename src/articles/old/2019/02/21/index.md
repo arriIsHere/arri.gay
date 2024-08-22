@@ -1,9 +1,9 @@
 ---
 title: The Big shift
 date: 2019-02-21
-abstract: 
-abstractAuthor: 
+tags: published
 image: windowTree.jpg
+imageAlt: A view out of an office park window to the woods surrounding it. Fall foliage is in bloom and the tree in the center is missing many of its leaves.
 layout: markdown.njk
 ---
 

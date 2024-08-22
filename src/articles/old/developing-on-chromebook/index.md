@@ -1,10 +1,18 @@
 ---
 title: "Beginner Dev Guides: Webdev on a Chromebook"
 date: 2019-08-03
-abstract: 
-abstractAuthor: 
+tags: published
 image: chromebook.jpg
+imageAlt: closeup picture of a chromebook on a wood surface. Model is Asus Chromebook Flip.
 ---
+
+## Note from future Arri
+
+This post is from 2019, since writing it ChromeOS has become a lot easier to setup/use as a development machine. Chromebooks have also become more powerful as time has gone on. I don't recommend following this, but it feel free to read it for
+entertainment or educational reasons.
+
+---
+
 I was browsing around for some computer components when I came across a Chromebook that was marked down. The stats were quite good, and it seemed like (in general) a reasonably sturdy piece of hardware. "Shame it's not a real laptop." I thought to myself. Then I thought more why wasn't a Chromebook a *real* laptop? It seems the only answer was the operating system. Due to some [changes](https://support.google.com/chromebook/answer/9145439?hl=en) to ChromeOS, this is no longer the case.
 
 What follows is a step-by-step guide for how to turn a seemingly simple "internet machine" (Chromebook) into a full-fledged development environment. For brevity, I have included simple instructions on this blog. If you want a more raw, verbose account of what I went through check out the play-by-play [on twitter](https://twitter.com/benblais/status/1157282631047737347).
@@ -71,43 +79,62 @@ If this is your first time using the command line, don't worry, most of this is 
 Note: the default terminal on ChromeOS has paste bound to the CTRL+SHIFT+v
 
 First, we need to be able to resolve the NodeJS package. Enter the following command into your terminal
+<section class="dark">
+
 ```bash
 ~$ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 ```
+</section>
 
 You can replace '12' with whatever is the latest version of NodeJS. (check at [https://nodejs.org](https://nodejs.org)).
 
 This command will output lots of text. Next, install NodeJS
+<section class="dark">
+
 ```bash
 ~$ sudo apt-get install -y nodejs
 ```
+</section>
 
 More text will be displayed. Next, make sure NodeJS got installed properly by running it with the version flag.
+<section class="dark">
+
 ```bash/1
 ~$ node -v
 v12.7.0
 ```
+</section>
 The same will work with NPM:
+<section class="dark">
+
 ```bash/1
 ~$ npm -v
 6.10.0
 ```
+</section>
 
 After running this command, a version will display on the next line. Congrats! You have installed node on your Chromebook.
 
 ## 5. Setting up Git
 
 Fortunately, Linux on your Chromebook has git installed already. 
+<section class="dark">
+
 ```bash/1
 ~$ git --version
 git version 2.11.0
 ```
 
+</section>
+
 If for some reason it's not there, or you uninstalled it by accident while exploring, no sweat, you can easily reinstall it again.
+
+<section class="dark">
 
 ```bash
 ~$ sudo apt-get install git
 ```
+</section>
 
 ## That's it
 
