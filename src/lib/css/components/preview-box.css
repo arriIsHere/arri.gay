@@ -35,7 +35,9 @@ a.codium-preview-box::after {
 
 .codium-preview-box img.preview-image {
 	padding: 0;
-	max-width: 100%;
+	width: 16em;
+	height: 9em;
+	object-fit: cover;
 }
 
 .codium-preview-box .preview-overlay {
