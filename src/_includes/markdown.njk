@@ -1,12 +1,12 @@
 ---
 layout: template.njk
 ---
-{%- if abstract -%}
-<figure class="codium-aside">
-	<blockquote><p>"{{abstract}}"</p></blockquote>
-	<figcaption>-{{abstractAuthor}}</figcaption>
-</figure>
-{%- endif -%}
 <article class="codium-content-page light">
+		{%- if abstract -%}
+		<figure class="codium-quote">
+			<blockquote>"{{abstract}}"</blockquote>
+			<figcaption>-{{abstractAuthor}}</figcaption>
+		</figure>
+		{%- endif -%}
 {{content|safe}}
 </article>
