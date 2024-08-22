@@ -1,5 +1,5 @@
 ---
-title: Dealing with Interrupts
+title: The Big shift
 date: 2019-02-21
 abstract: 
 abstractAuthor: 
@@ -11,7 +11,7 @@ Over the course of last summer, my work has taken a metamorphosis that many of y
 
 This is, of course the transformation into Senior Engineer. My plan here is to go over my journey through this promotion and the challenges I met along the way. My hope is that by providing a warning, you will be able to better prepare, and find a solution that works for you.
 
-## The Big Shift
+## A Change In Your Role
 
 Going through the roles of junior to general engineer is follows a more obvious flow: you get technically better -> work becomes easier -> you get more challenging work. The transition from junior to senior, while having an incremental change in technical ability, is not so much an increase in technical difficulty so much, as it is a substitution for leadership and social responsibilities.
 
@@ -31,4 +31,9 @@ For other developers this may not be the case, they may regard this as a welcome
 
 ## Meeting Fatigue
 
-Related to Social Burnout is meeting burnout. Meetings require more effort for many developers. You will also find yourself running more meetings. Coordinating developers takes communication and many times meetings are an efficient way to do this.
+Related to Social Burnout, is meeting burnout. Meetings require more effort for many developers. You will also find yourself running more meetings. Coordinating developers takes communication and many times meetings are an efficient way to do this. As with social burnout, this can be trying.
+
+## Moving Forward
+
+For solutions to these changes, I am still trying to figure them out. I have a few ways to mitigate the challenges that come with this change in responsibility, but there are many things I am still working on. Hopefully this small enumeration will help you better prepare for the day when you to make your big shift in your career.
+
