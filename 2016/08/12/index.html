@@ -4,75 +4,75 @@ date: 2016-08-12
 layout: template.njk
 ---
 <div class="abstract">
-  <p></p>
-  <span></span>
+	<p></p>
+	<span></span>
 </div>
 
 <article>
-  <p>Unlike my website, which was more of an experiment with web components, this blog
-  was built to be compatible. One aspect of this compatibility was the decision
-  to support browsers that either did not have, or had disabled, JavaScript. For some,
-  this may seem like a rather limiting design choice. But as I am about to explain, this
-  is not quite as big a problem as you would think.</p>
+	<p>Unlike my website, which was more of an experiment with web components, this blog
+	was built to be compatible. One aspect of this compatibility was the decision
+	to support browsers that either did not have, or had disabled, JavaScript. For some,
+	this may seem like a rather limiting design choice. But as I am about to explain, this
+	is not quite as big a problem as you would think.</p>
 
-  <h3>JavaScript is For Webapps, Not For Websites</h3>
-  <p>Most web developers and designers agree that, since the advent of HTML5,
-  the three primary parts of the web (HTML, CSS, and JavaScript) are to follow a design
-  pattern not unlike MVC (Model, View, Controller). In the case of the web, the HTML
-  is expected to behave similar to the Model, the CSS is somewhat like a view, and 
-  the JavaScript will play the part of the controller. These design pasterns may not be apples
-  and apples, but there is enough similarity between the two for the analogy to work for this
-  argument.</p>
-  <p>In the case of a Webapp the data is changing based on user reactions to it,
-  a controller is required to handle input from the user. What about the case of a website
-  or a web article? Well, in these instances, user interaction does not really play a role.
-  You have information and a way you want the information displayed (the view and the model).</p>
+	<h3>JavaScript is For Webapps, Not For Websites</h3>
+	<p>Most web developers and designers agree that, since the advent of HTML5,
+	the three primary parts of the web (HTML, CSS, and JavaScript) are to follow a design
+	pattern not unlike MVC (Model, View, Controller). In the case of the web, the HTML
+	is expected to behave similar to the Model, the CSS is somewhat like a view, and 
+	the JavaScript will play the part of the controller. These design pasterns may not be apples
+	and apples, but there is enough similarity between the two for the analogy to work for this
+	argument.</p>
+	<p>In the case of a Webapp the data is changing based on user reactions to it,
+	a controller is required to handle input from the user. What about the case of a website
+	or a web article? Well, in these instances, user interaction does not really play a role.
+	You have information and a way you want the information displayed (the view and the model).</p>
 
-  <h3>You Probably Don't Need JavaScript</h3>
-  <p>In much the same way that the addition of built-in browser methods changed JQuery into an 
-  <a href="http://youmightnotneedjquery.com/" rel="noopener noreferrer" target="_blank">unnecessary library</a>, new
-  CSS selectors have made some of the common JavaScript solutions to web styling
-  obsolete. Take the classic accordion for example. Traditionally, you create this by
-  using a click event handler to trigger the toggling of a class which will allow 
-  special styling to activate (hiding the accordion content).</p>
-  <iframe width="100%" height="300" src="https://jsfiddle.net/9fmc4d4f/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
-  <p>This seems logical to most people. After all, the user is clicking and by doing
-  so, changing the page. But what if I am thinking of the content as temporarily hidden?
-  Think of the :hover pseudo selector. This is just content that I am choosing to hide
-  or display differently until it becomes focused (hovered or clicked).</p>
-  <p>There is a problem though, no :clicked pseudo-selector exists, so how can I
-  open my accordion without tapping into an event handler? It's actually quite simple, instead
-  of thinking of accordion as a div (as it is traditionally done) think of it as a large
-  label for a checkbox.</p>
-  <iframe width="100%" height="300" src="https://jsfiddle.net/2Lpy9jvL/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
-  <p>It probably seems a bit strange, to add the checkbox to the element only
-  to hide it. But don't forget this is exactly what many designers already do.
-  Custom styled checkboxes are just regular checkboxes with their content hidden
-  and a customized label or ::before pseudo-element. The accordion only takes things
-  a few steps further.</p>
+	<h3>You Probably Don't Need JavaScript</h3>
+	<p>In much the same way that the addition of built-in browser methods changed JQuery into an 
+	<a href="http://youmightnotneedjquery.com/" rel="noopener noreferrer" target="_blank">unnecessary library</a>, new
+	CSS selectors have made some of the common JavaScript solutions to web styling
+	obsolete. Take the classic accordion for example. Traditionally, you create this by
+	using a click event handler to trigger the toggling of a class which will allow 
+	special styling to activate (hiding the accordion content).</p>
+	<iframe width="100%" height="300" src="https://jsfiddle.net/9fmc4d4f/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+	<p>This seems logical to most people. After all, the user is clicking and by doing
+	so, changing the page. But what if I am thinking of the content as temporarily hidden?
+	Think of the :hover pseudo selector. This is just content that I am choosing to hide
+	or display differently until it becomes focused (hovered or clicked).</p>
+	<p>There is a problem though, no :clicked pseudo-selector exists, so how can I
+	open my accordion without tapping into an event handler? It's actually quite simple, instead
+	of thinking of accordion as a div (as it is traditionally done) think of it as a large
+	label for a checkbox.</p>
+	<iframe width="100%" height="300" src="https://jsfiddle.net/2Lpy9jvL/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+	<p>It probably seems a bit strange, to add the checkbox to the element only
+	to hide it. But don't forget this is exactly what many designers already do.
+	Custom styled checkboxes are just regular checkboxes with their content hidden
+	and a customized label or ::before pseudo-element. The accordion only takes things
+	a few steps further.</p>
 
-  <h3>Graceful Degradation</h3>
-  <p>One of the great achievements of the web is it's ability to handle differing levels
-  of compatibility. If I add some new CSS3 selectors to my styling document, the 
-  elements will still display even if the user's browser does not support them. 
-  One reason to not use JavaScript is CSS has a much more smooth degradation system. 
-  You can easily write rules and, if a browser does not support them, they just won't
-  be displayed. I find this more elegant than JavaScript's programmatic method, where 
-  it must first be checked if something exists.</p>
+	<h3>Graceful Degradation</h3>
+	<p>One of the great achievements of the web is it's ability to handle differing levels
+	of compatibility. If I add some new CSS3 selectors to my styling document, the 
+	elements will still display even if the user's browser does not support them. 
+	One reason to not use JavaScript is CSS has a much more smooth degradation system. 
+	You can easily write rules and, if a browser does not support them, they just won't
+	be displayed. I find this more elegant than JavaScript's programmatic method, where 
+	it must first be checked if something exists.</p>
 
-  <h3>Considerations</h3>
-  <p>There is one concession to be made when styling without JavaScript, the loss 
-  of polyfills. One thing JavaScript does allow you to do, that you quite
-  simply can't in CSS, is write some code to perform a task that is not supported
-  by the browser. </p>
-  <p>This is just something you need to consider when styling your site though.
-  Since styling is usually one of those places where extra support for things 
-  is usually extra (animations and transitions come to mind), it is nothing to be
-  overly concerned about. Just remember, if something you are using in CSS isn't 
-  supported by all major browsers, design you website assuming that it won't be there.</p>
+	<h3>Considerations</h3>
+	<p>There is one concession to be made when styling without JavaScript, the loss 
+	of polyfills. One thing JavaScript does allow you to do, that you quite
+	simply can't in CSS, is write some code to perform a task that is not supported
+	by the browser. </p>
+	<p>This is just something you need to consider when styling your site though.
+	Since styling is usually one of those places where extra support for things 
+	is usually extra (animations and transitions come to mind), it is nothing to be
+	overly concerned about. Just remember, if something you are using in CSS isn't 
+	supported by all major browsers, design you website assuming that it won't be there.</p>
 
-  <p>CSS has come a really long way in the past few years and has many great features. 
-  Styling websites using it is easier than ever and allows you to display things
-  in much more creative ways. It has come to the point with styling functionality that
-  you might not actually need JavaScript at all.</p>
+	<p>CSS has come a really long way in the past few years and has many great features. 
+	Styling websites using it is easier than ever and allows you to display things
+	in much more creative ways. It has come to the point with styling functionality that
+	you might not actually need JavaScript at all.</p>
 </article>

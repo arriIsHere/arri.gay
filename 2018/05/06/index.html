@@ -4,26 +4,26 @@ date: 2018-05-06
 layout: template.njk
 ---
 <div class="abstract">
-    <p>"When I first made a grid, I happened to be thinking of the innocence of trees, and then a grid came into my mind and I thought it represented innocence, and I still do, and so I painted it and then I was satisfied. I thought, 'This is my vision.'"</p>
-    <span>-Agnes Martin</span>
+	<p>"When I first made a grid, I happened to be thinking of the innocence of trees, and then a grid came into my mind and I thought it represented innocence, and I still do, and so I painted it and then I was satisfied. I thought, 'This is my vision.'"</p>
+	<span>-Agnes Martin</span>
 </div>
 
 <article>
-    <p>This is my third time redesigning my website, each time I do it is usually because there is some new web technology that I would like to get my hands dirty with. The technology of today was CSS Grid.</p>
+	<p>This is my third time redesigning my website, each time I do it is usually because there is some new web technology that I would like to get my hands dirty with. The technology of today was CSS Grid.</p>
 
-    <h3>Grid and The Problems It Solves</h3>
-    <p>My approach with such endeavors is generally to throw myself fully into the technology in question, not to use other tech even if it can’t be done using the technology I have chosen. Generally, this causes me to encounter roadblocks, usually for situations where I know a capability can be implemented using this tool but I am struggling to figure out how. CSS grid was different in this regard, while I had my share of difficulties I found most solutions to be obvious and easy. In fact, many times grid provided solutions to problems that were much simpler and more reasonable than they would be had I attempted them with flexbox or the standard box-model. Let’s talk about a few of the things in web development normally give me cause for frustration.</p>
+	<h3>Grid and The Problems It Solves</h3>
+	<p>My approach with such endeavors is generally to throw myself fully into the technology in question, not to use other tech even if it can’t be done using the technology I have chosen. Generally, this causes me to encounter roadblocks, usually for situations where I know a capability can be implemented using this tool but I am struggling to figure out how. CSS grid was different in this regard, while I had my share of difficulties I found most solutions to be obvious and easy. In fact, many times grid provided solutions to problems that were much simpler and more reasonable than they would be had I attempted them with flexbox or the standard box-model. Let’s talk about a few of the things in web development normally give me cause for frustration.</p>
 
-    <h3>Reactive Design Dreamt of This Day</h3>
-    <p>One of the constant pains for building my website is supporting up for multiple display sizes and devices. The previous redesign of my website (using web components) contain multiple media queries in my CSS. In this redesign, I only had a few select media queries and they were quite simple, the top-level element only had to redefine the template areas for the desktop form factor.</p>
+	<h3>Reactive Design Dreamt of This Day</h3>
+	<p>One of the constant pains for building my website is supporting up for multiple display sizes and devices. The previous redesign of my website (using web components) contain multiple media queries in my CSS. In this redesign, I only had a few select media queries and they were quite simple, the top-level element only had to redefine the template areas for the desktop form factor.</p>
 
-    <script src="https://gist-it.appspot.com/https://github.com/bblais23/website/blob/master/src/lib/css/main.css?slice=64:78"></script>
+	<script src="https://gist-it.appspot.com/https://github.com/bblais23/website/blob/master/src/lib/css/main.css?slice=64:78"></script>
 
-    <h3>The Structure Remains</h3>
-    <p>Whenever I decide to redo my website, there is this constant dread of the inevitable html refactoring. It shouldn’t be this way, html is supposed to be just the content and the CSS is supposed to handle how it looks. In practice this rarely ever happens, mostly because of the limitations of the CSS box model. I found that my old web component based documents were very easily restyled with CSS grid. Amazingly there were very few structural changes I had to make.</p>
+	<h3>The Structure Remains</h3>
+	<p>Whenever I decide to redo my website, there is this constant dread of the inevitable html refactoring. It shouldn’t be this way, html is supposed to be just the content and the CSS is supposed to handle how it looks. In practice this rarely ever happens, mostly because of the limitations of the CSS box model. I found that my old web component based documents were very easily restyled with CSS grid. Amazingly there were very few structural changes I had to make.</p>
 
-    <h3>Putting an End to Sibling Rivalry</h3>
-    <p>Traditional CSS assumes that an element is sovereign. An html element cannot be ruled or constrained by its parent unless it wants to. Grid turns this premise on its head by making the grid parent the arbiter of how the elements behave. This makes styling so much easier because finally there is a system that acknowledges the existence of siblings. By having this level of control over the child elements without having to micromanage them provides many simple solutions to otherwise difficult problems.</p>
+	<h3>Putting an End to Sibling Rivalry</h3>
+	<p>Traditional CSS assumes that an element is sovereign. An html element cannot be ruled or constrained by its parent unless it wants to. Grid turns this premise on its head by making the grid parent the arbiter of how the elements behave. This makes styling so much easier because finally there is a system that acknowledges the existence of siblings. By having this level of control over the child elements without having to micromanage them provides many simple solutions to otherwise difficult problems.</p>
 
-    <p>After diving into CSS grid for the past few weeks, I must say that it has left me pleasantly surprised. My initial expectation was that I would run into all sorts of roadblocks, but turns out Grid is a very capable technology, and a welcome member of my web development toolbox.</p>
+	<p>After diving into CSS grid for the past few weeks, I must say that it has left me pleasantly surprised. My initial expectation was that I would run into all sorts of roadblocks, but turns out Grid is a very capable technology, and a welcome member of my web development toolbox.</p>
 </article>

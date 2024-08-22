@@ -4,69 +4,69 @@ date: 2017-07-07
 layout: template.njk
 ---
 <article>
-  <p>Among my many hobbies is tabletop Roleplaying games. GURPs,
-  Dungeons and Dragons, and DC Heros, for example, are all systems I've used or run for.
-  Recently I went through the process of building a NPC manager (you can test it
-  out <a href="https://bblais23.github.io/npc-manager" rel="noopener noreferrer"
-  target="_blank">here</a>).</p>
+	<p>Among my many hobbies is tabletop Roleplaying games. GURPs,
+	Dungeons and Dragons, and DC Heros, for example, are all systems I've used or run for.
+	Recently I went through the process of building a NPC manager (you can test it
+	out <a href="https://bblais23.github.io/npc-manager" rel="noopener noreferrer"
+	target="_blank">here</a>).</p>
 
-  <h2>Tabletops and Tools</h2>
-  <p>Stylistically, I prefer to run table-top games with as little technology or
-  software as possible. I take my notes using paper and pencil, and my DM screen
-  hides mounds of notebooks and paper.</p>
+	<h2>Tabletops and Tools</h2>
+	<p>Stylistically, I prefer to run table-top games with as little technology or
+	software as possible. I take my notes using paper and pencil, and my DM screen
+	hides mounds of notebooks and paper.</p>
 
-  <p>NPC management though, that's an area that presents a unique problem to me.
-  Coming up with names on the fly isn't something I'm particularly good at, and
-  crossing an NPC's name off a list and writing it down takes way too long.</p>
+	<p>NPC management though, that's an area that presents a unique problem to me.
+	Coming up with names on the fly isn't something I'm particularly good at, and
+	crossing an NPC's name off a list and writing it down takes way too long.</p>
 
-  <p>Making an app seemed the logical solution, I could run an I on my phone,
-  use it while I played seamlessly, and I could generate an NPC much quicker than
-  before.</p>
+	<p>Making an app seemed the logical solution, I could run an I on my phone,
+	use it while I played seamlessly, and I could generate an NPC much quicker than
+	before.</p>
 
-  <h2>Front-loading the App</h2>
-  <p>I didn't want to have to deal with persistent storage or databases so I opted
-  to make the application exclusively front-end. If you had time to check it out
-  already, you would notice NPCManger has save/load buttons. This is to allow the
-  persistence of data between sessions without having to rely on cookies or databases.</p>
+	<h2>Front-loading the App</h2>
+	<p>I didn't want to have to deal with persistent storage or databases so I opted
+	to make the application exclusively front-end. If you had time to check it out
+	already, you would notice NPCManger has save/load buttons. This is to allow the
+	persistence of data between sessions without having to rely on cookies or databases.</p>
 
-  <h2>Side-Quests</h2>
-  <p>I like all my projects to be opportunities for learning. That way, even if
-  the finished product proves to be useless at the very least I learned something.</p>
+	<h2>Side-Quests</h2>
+	<p>I like all my projects to be opportunities for learning. That way, even if
+	the finished product proves to be useless at the very least I learned something.</p>
 
-  <h3>EMs for the GMs</h3>
-  <p>For NPCManager, I wanted to improve my CSS Unit game, the intent was to style
-  everything using EMs or REMs, so a slight font change would scale up the DPI of all
-  objects on the screen, allowing the whole page to look the same, but bigger.
-  The results were amazing, not only was I able to make items relatively sized to
-  their parents, but I could scale the page up and down by changing the root font
-  size.</p>
+	<h3>EMs for the GMs</h3>
+	<p>For NPCManager, I wanted to improve my CSS Unit game, the intent was to style
+	everything using EMs or REMs, so a slight font change would scale up the DPI of all
+	objects on the screen, allowing the whole page to look the same, but bigger.
+	The results were amazing, not only was I able to make items relatively sized to
+	their parents, but I could scale the page up and down by changing the root font
+	size.</p>
 
-  <h3>Mobile first</h3>
-  <p>I always try to make my projects "mobile-first" web applications, but this
-  was the first time I took this seriously. I suspect the need to make this work
-  on a smartphone and only having desktop as an afterthought provided the
-  encouragement that was necessary, but whatever the reason this was the first time
-  I actually made mobile the top priority.</p>
+	<h3>Mobile first</h3>
+	<p>I always try to make my projects "mobile-first" web applications, but this
+	was the first time I took this seriously. I suspect the need to make this work
+	on a smartphone and only having desktop as an afterthought provided the
+	encouragement that was necessary, but whatever the reason this was the first time
+	I actually made mobile the top priority.</p>
 
-  <h3>Improved Agility</h3>
-  <p>Time was a major constraint for this project, it was imperative that the tool
-  be done before the next game session. One solution would have been to lower
-  expectations, but I choose instead to make incremental improvements to the app,
-  scrum-style.</p>
+	<h3>Improved Agility</h3>
+	<p>Time was a major constraint for this project, it was imperative that the tool
+	be done before the next game session. One solution would have been to lower
+	expectations, but I choose instead to make incremental improvements to the app,
+	scrum-style.</p>
 
-  <h2>Gametime</h2>
-  <p>The end result was a simple and useful tool. It can be improved but the
-  important thing is it's written and designed relatively well. I tested it in my
-  first session and it seemed to work relatively well aside from a few hiccups.</p>
+	<h2>Gametime</h2>
+	<p>The end result was a simple and useful tool. It can be improved but the
+	important thing is it's written and designed relatively well. I tested it in my
+	first session and it seemed to work relatively well aside from a few hiccups.</p>
 
-  <h3>Retrospective</h3>
-  <p>The glitches I found in my app were mostly simple (dumb) bugs. These all could
-  be caught by doing unit tests for the data. The next time I do a project I intend
-  to add unit tests to the project to avoid this in the future.</p>
+	<h3>Retrospective</h3>
+	<p>The glitches I found in my app were mostly simple (dumb) bugs. These all could
+	be caught by doing unit tests for the data. The next time I do a project I intend
+	to add unit tests to the project to avoid this in the future.</p>
 
-  <p>In spite of the bugs, the things that worked well with this project worked
-  really well. Incremental development ensured I had a sliding scale of sorts for
-  features of this app, The EM based styling worked in a beautiful top-down styling
-  for the app, and the mobile-first development allows for a beautiful web-application
-  usable on almost all devices.</p>
+	<p>In spite of the bugs, the things that worked well with this project worked
+	really well. Incremental development ensured I had a sliding scale of sorts for
+	features of this app, The EM based styling worked in a beautiful top-down styling
+	for the app, and the mobile-first development allows for a beautiful web-application
+	usable on almost all devices.</p>
 </article>
