@@ -1,8 +1,8 @@
 ---
 title: Eleventy Won
 date: 2019-03-03
-abstract:
-abstractAuthor:
+abstract: eleventy-one years is far too short a time to live among such excellent and admirable hobbits. I don't know half of you half as well as I should like, and I like less than half of you half as well as you deserve.
+abstractAuthor: J.R.R. Tolkien, The Fellowship of the Ring
 image: hobbitonfeast.jpg
 layout: markdown.njk
 ---
