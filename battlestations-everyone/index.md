@@ -6,7 +6,7 @@ abstractAuthor:
 image: mysetup.jpg
 ---
 
-I like working from home, probably good then that my employment is flexable for it to happen often. While at the company office, I mostly have whatever setup is provided by my employer. At home, I am able to customize my workstation within the limits of reality (and my budget I guess, but who cares about money?). Last week I decided to redo my setup.
+I like working from home, probably good then that my employment is flexible enough for it to happen often. While at the company office, I mostly have whatever setup is provided by my employer. At home, I am able to customize my workstation within the limits of reality. Last week I decided to redo my setup.
 
 # Old Workstation
 
@@ -26,7 +26,7 @@ This is a big one, having sunlight (or moonlight for my fellow night owls) has a
 
 I can't sit still. I know I'm not the only person who feels this way, but for me this is probably one of the most frustrating things about my job. Previously I would tap my foot. The rate of my "tapping" though would cause other objects to vibrate and caused some disdain with my coworkers. Personally, I prefer not let my personal problems cause distress to those around me and exercise balls seemed like a way to mitigate it.
 
-## The Build
+## Result
 
 My original setup consisted of a desktop tower (under the desk), three monitors, directly in front of one of the largest windows in my house, and and exercise ball to sit on.
 
@@ -53,3 +53,5 @@ Much like the exercise ball (which I still use when seated), a standing desk all
 ## Thinking space
 
 I would estimate that probably about 5-10% of my actual time is spent actually writing code and this is when my primary work is development. In my current design/architecture role, it's more like 1-2%. When I have to do some deep design work to do, I grab my mechanical pencil and a college ruled notebook; then I go sit in a nice chair some tea or coffee and think it through. Chairs like this are also nice for reading in my leisure time too.
+
+I am sure that I will inevitably redo this setup again, but now I have a better and more comfortable workspace where I can feel relaxed and comfortable while working remote, or on personal projects.
