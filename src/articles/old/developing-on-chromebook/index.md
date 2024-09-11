@@ -8,8 +8,7 @@ imageAlt: closeup picture of a chromebook on a wood surface. Model is Asus Chrom
 
 ## Note from future Arri
 
-This post is from 2019, since writing it ChromeOS has become a lot easier to setup/use as a development machine. Chromebooks have also become more powerful as time has gone on. I don't recommend following this, but it feel free to read it for
-entertainment or educational reasons.
+This post is from 2019, since writing it ChromeOS has become a lot easier to setup/use as a development machine. Chromebooks have also become more powerful as time has gone on. I don't recommend following this, but feel free to read it for entertainment or educational reasons.
 
 ---
 
