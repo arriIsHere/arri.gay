@@ -7,6 +7,7 @@
 @import '/lib/css/codium/main.css';
 @import '/lib/css/components/preview-box.css';
 @import '/lib/css/components/profile.css';
+@import '/lib/css/components/codium-quote.css';
 
 /* force it to fill the window*/
 body {
@@ -32,6 +33,10 @@ main {
 
 footer {
     grid-area: footer;
+}
+
+.codium-content-page img {
+    max-width: 100%;
 }
 
 .codium-content-page.preview-box-container {

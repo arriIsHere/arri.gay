@@ -18,11 +18,12 @@ imageAlt: Arm outstretched with a blue wing butterfly landing on it
 *2024 Milo, all rights reserved*
 
 I am going to talk a bit about one of my favorite games, Life is Strange. 
-I already know the story, I know how it all ends but it's a game that 
-means a lot to me. While this will discuss
+I already know the story as well as all the ending, but it is
+a game that I continue to come back to. While this will discuss
 the game, things I liked about it, things I dislike about it, it's not a game review.
-rather the game is used to tell a story of how fiction can tell us things about ourselves.
+Rather the game is used to tell a story of how fiction can tell us things about ourselves.
 This is a story about self discovery, and what this games told me about who I am.
+
 ## Chrysalis
 
 In 2014 I went to Pax East, it was my first year going, 
@@ -103,8 +104,6 @@ game reacted differently to my new priorities in life.
 
 Life is Strange for me was like a polaroid selfie, it showed me things about myself 
 that I couldn't easily see on my own.
-
-*Life Is Strange and the Life Is Strange logo is &copy; Donod entertainment all rights reserved*
 
 *<a href="https://twitter.com/Milocantnow/status/1397997639799652356">"Butterfly Effect"</a>*
 *&copy; 2021-2024 by* 

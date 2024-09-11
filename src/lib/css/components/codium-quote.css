@@ -1,0 +1,14 @@
+.codium-quote {
+	margin: 0;
+}
+
+.codium-quote blockquote {
+	margin: 0;
+	font-size: 1.25em;
+	font-style: italic;
+}
+
+.codium-quote figcaption {
+	margin-left: var(--spacing-medium);
+	font-size: 1.125em;
+}
