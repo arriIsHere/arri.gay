@@ -29,7 +29,7 @@ Stats for this model:
 - **BlueTooth:** Bluetooth 4.0
 - **Battery:** 48WHrs, 3S1P, 3-cell Li-ion
 
-Usually, this model goes for ~$600, however, this one sale for $300. You can probably get by with a much less expensive model, but I would recommend trying to get as much ram as possible within your budget.
+Usually, this model goes for ~$600, however, this one was on sale for $300. You can probably get by with a much less expensive model, but I would recommend trying to get as much ram as possible within your budget.
 
 ## 0. Setting Up The Chromebook
 
