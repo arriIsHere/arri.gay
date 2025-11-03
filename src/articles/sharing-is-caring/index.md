@@ -9,20 +9,22 @@ tone: light
 imageAlt: Paper coffee cup with a die cut sticker of a cartoon black cat loafing with a plant growing out of its head. To the left and occluding the cup is an old fashioned donut. in the background is a yard with a chain-link fence with green privacy strips.
 ---
 
-Many developers are trying to take greater advantage of AI by utilizing git worktrees. They allow you to checkout multiple branches at once instead of one. Multiple dev blogs, tech articles, and conference talks realated to their usefulness. Tools are even starting to support them natively: [conductor.build](https://conductor.build) and [Cursor 2.0](https://cursor.com/blog/2-0) both use worktrees as a core part of their developer workflow.
+Many developers are trying to take greater advantage of AI by utilizing git worktrees. Simply by allowing you to checkout multiple branches at once instead of one they make parallel workflows possible. Developers need not be longer limited to running one agent at a time.
 
-They can be incredibly powerful for unlocking multi-agent workflows and reducing idle time, but they come with their own set of challenges. Chief among them is ensuring each is setup for local development in a quick and flexible manner. In this post I will share my own solution to this problem, using a powerful tool already available on your machine: hardlinks.
+Dev blogs, tech articles, and conference talks rave about their usefulness. Tools are even built entirely around this method of development: [conductor.build](https://conductor.build) and [Cursor 2.0](https://cursor.com/blog/2-0) are two examples of developer tools that use worktrees as a core part of their developer workflow.
+
+While worktrees can be incredibly powerful for unlocking multi-agent workflows, they come with their own set of challenges. Chief among them is ensuring each new worktree is setup properly for local development as quickly, and consistently as possible. In this article I am delighted to share my own solution to this problem; a powerful tool already available on your machine: hardlinks.
 
 > GitKraken has a great primer on worktrees if you wish to find out more [Git Worktree](https://www.gitkraken.com/learn/git/git-worktree)
 
 ## The Problem
 
-When you clone a git repository, it will create a single worktree by default. Usually your one of your first tasks as an developer is to get this worktree setup so that you can run the development environment locally. Depending on what type of system you have, how good the docs or tooling is, this can take anywhere from less than an hour to a week. 
+When you clone a git repository, it creates a single worktree by default. Usually, one of your first tasks as a developer is to get this new environment setup for local development and testing. Depending on what type of system you have, how good the docs or tooling is, this can take anywhere from less than an hour to a whole week. 
 
-Having to do this everytime you create a new worktree would more than negate the positive advantages that multiple
-worktrees confer. For this reason, many developers find themselves in a situation where they need to maintain the same base configuration across multiple worktrees, but also need flexibility to make worktree-specific modifications when necessary. Traditional approaches like separate branches or Git submodules often fall short:
+Having to do this setup everytime you create a new worktree would more than negate the positive advantages that multiple
+worktrees confer. For this reason, many developers find themselves in a situation where they need to maintain the same base configuration across multiple worktrees. Traditional approaches like Git submodules or copying files often fall short:
 
-- Separate branches require manual copying and synchronization
+- Manual coppying runs the risk of loosing synchronization, or having to redo changes.
 - Submodules don't play well with multiple worktrees and create complex workflows
 - Some tools, such as NPM have trouble parsing symbolic links.
 
