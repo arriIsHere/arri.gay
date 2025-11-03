@@ -55,3 +55,8 @@ footer {
         align-items: center;
     }
 }
+
+code[class*="language-"],
+pre[class*="language-"] {
+    text-shadow: none;
+}
