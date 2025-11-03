@@ -21,25 +21,19 @@ While worktrees can be incredibly powerful for unlocking multi-agent workflows, 
 
 When you clone a git repository, it creates a single worktree by default. Usually, one of your first tasks as a developer is to get this new environment setup for local development and testing. Depending on what type of system you have, how good the docs or tooling is, this can take anywhere from less than an hour to a whole week. 
 
-Having to do this setup everytime you create a new worktree would more than negate the positive advantages that multiple
+When working with a single worktree, setting everything up is a "one and done" problem. All the needed files remain regardless of how many time you switch branches.
+
+When using multiple worktrees, you can no longer expect the same files, as a new directory is checked out for each. 
+Having to setup every new worktree would more than negate the positive advantages that multiple
 worktrees confer. For this reason, many developers find themselves in a situation where they need to maintain the same base configuration across multiple worktrees. Traditional approaches like Git submodules or copying files often fall short:
 
-- Manual coppying runs the risk of loosing synchronization, or having to redo changes.
-- Submodules don't play well with multiple worktrees and create complex workflows
-- Some tools, such as NPM have trouble parsing symbolic links.
-
-## Why Do You Need Shared Config?
-
-For many software systems, you often need a of configuration files, cached dependencies, or other shared state files configured in order to set up your enviornment for development. When working with a single worktree, this is trivial, you ignore all the needed files and they remain regardless of what branch you check out.
-
-When using git worktrees, you can no longer expect the same files, as a new directory is checked out for each. Copy‑pasting configuration files into each worktree is a quick fix, but it leads to:
-
-- Disk waste – duplicated files
-- Synchronization headaches – remember to update all copies
-- Potential drift – two worktrees may end up with slightly different versions
+- Manual coppying can result in synchronization headaches, two worktrees may end up with notably different versions
+- Submodules don't always play well with multiple worktrees.
+- Some tools (such as NPM) have trouble parsing symbolic links.
 
 
 Git’s worktree feature solves the branch isolation problem, but it doesn’t provide a built‑in way to share arbitrary files among those worktrees. That’s where hard‑links come in.
+
 
 ## Hard-links in a Nutshell
 
