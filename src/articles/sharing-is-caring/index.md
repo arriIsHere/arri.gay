@@ -5,7 +5,7 @@ tags: published
 abstract: 
 abstractAuthor: 
 image: plantcat-donut.jpg
-tone: light
+tone: dark
 imageAlt: Paper coffee cup with a die cut sticker of a cartoon black cat loafing with a plant growing out of its head. To the left and occluding the cup is an old fashioned donut. in the background is a yard with a chain-link fence with green privacy strips.
 ---
 
