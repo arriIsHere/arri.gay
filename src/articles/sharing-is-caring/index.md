@@ -1,15 +1,15 @@
 ---
 title: "Sharing is Caring: Solving the config problem in Worktrees"
 date: 2025-11-02
-tags: draft
+tags: published
 abstract: 
 abstractAuthor: 
 image: plantcat-donut.jpg
-tone: dark
+tone: light
 imageAlt: Paper coffee cup with a die cut sticker of a cartoon black cat loafing with a plant growing out of its head. To the left and occluding the cup is an old fashioned donut. in the background is a yard with a chain-link fence with green privacy strips.
 ---
 
-Many developers are trying to take greater advantage of AI by utilizing git worktrees. They allow you to checkout multiple branches at once instead of one. [conductor.build](https://conductor.build) and [Cursor 2.0](https://cursor.com/blog/2-0) both natively support multiple worktrees as a method for parallelizing agents. Not to mention multiple dev blogs, tech articles, and conference talks realated to their usefulness.
+Many developers are trying to take greater advantage of AI by utilizing git worktrees. They allow you to checkout multiple branches at once instead of one. Multiple dev blogs, tech articles, and conference talks realated to their usefulness. Tools are even starting to support them natively: [conductor.build](https://conductor.build) and [Cursor 2.0](https://cursor.com/blog/2-0) both use worktrees as a core part of their developer workflow.
 
 They can be incredibly powerful for unlocking multi-agent workflows and reducing idle time, but they come with their own set of challenges. Chief among them is ensuring each is setup for local development in a quick and flexible manner. In this post I will share my own solution to this problem, using a powerful tool already available on your machine: hardlinks.
 
