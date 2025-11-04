@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       '@codium-css/css':
-        specifier: ^0.1.1
+        specifier: 0.1.1
         version: 0.1.1
     devDependencies:
       '@11ty/eleventy':
