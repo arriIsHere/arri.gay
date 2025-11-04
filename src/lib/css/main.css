@@ -55,3 +55,14 @@ footer {
         align-items: center;
     }
 }
+
+pre[class*="language-"] {
+    background-color: var(--background-dark);
+    color: var(--text-light);
+    padding: var(--spacing-small);
+    border-radius: 0.25rem;
+}
+
+code[class*="language-"] {
+    text-shadow: none;
+}
