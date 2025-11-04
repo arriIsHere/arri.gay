@@ -59,4 +59,5 @@ footer {
 code[class*="language-"],
 pre[class*="language-"] {
     text-shadow: none;
+    background-color: var(--background-dark);
 }
