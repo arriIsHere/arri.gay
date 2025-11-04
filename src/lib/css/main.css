@@ -60,4 +60,7 @@ code[class*="language-"],
 pre[class*="language-"] {
     text-shadow: none;
     background-color: var(--background-dark);
+    color: var(--text-light);
+    padding: var(--spacing-small);
+    border-radius: 0.25rem;
 }
