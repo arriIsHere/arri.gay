@@ -81,7 +81,8 @@ Now you can hardlink all the files in your config directory.
 
 ```bash
 # Copy all files including hidden ones using hardlinks
-cp -lfR $SHARED_CONFIG_DIR/**/* $SHARED_CONFIG_DIR/**/.* worktree-directory/
+cp -lfR $SHARED_CONFIG_DIR/**/* worktree-directory/
+cp -lf $SHARED_CONFIG_DIR/**/.* worktree-directory/
 ```
 
 The `-l` flag creates hard‑links instead of copies, `-f` forces the operation, and `-R` recurses into subdirectories. As a result:
@@ -111,7 +112,8 @@ git worktree add -b "$BRANCH" "$WORKTREE"
 # 2. Hard‑link shared files into the new worktree
 #    The trailing slash on both sides ensures we copy into the dir,
 #    not replace it.
-cp -lfR "$SHARED_CONFIG_DIR/**/*" "$SHARED_CONFIG_DIR/**/.*" "$SHARED_CONFIG_DIR/"
+cp -lfR $SHARED_CONFIG_DIR/* $WORKTREE/
+cp -lf $SHARED_CONFIG_DIR/.* $WORKTREE/
 
 # 3. (Optional) Run any per‑tree setup
 #    e.g. npm install, go mod tidy, etc.
@@ -150,7 +152,7 @@ Generally rebasing should work without any problems. However, if you have some o
 rm tracked_file
 git checkout .
 git rebase
-cp -lfR $SHARED_CONFIG_DIR/**/* $SHARED_CONFIG_DIR/**/.* ./
+cp -lfR $SHARED_CONFIG_DIR/tracked_file ./
 ```
 
 ## Summary
